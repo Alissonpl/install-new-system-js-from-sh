@@ -37,7 +37,7 @@ Objetivo desse projeto:
    - Instalação da biblioteca Expo-cli;
    - Instalação da biblioteca Axios;
 
-## 💻 Instalação
+## 🔖 Instalacao
    
 - Abra seu terminal no local aonde se encontra o Script;
 - Execute: chmod a+x NomedoArquivo
